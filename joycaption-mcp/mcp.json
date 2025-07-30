@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "joycaption": {
+      "command": "python",
+      "args": ["-m", "joycaption_mcp"],
+      "env": {}
+    }
+  }
+}

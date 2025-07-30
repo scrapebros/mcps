@@ -1,0 +1,19 @@
+[project]
+name = "domain-checker-mcp"
+version = "0.1.0"
+description = "An MCP server for checking domain availability"
+authors = [{ name = "Domain Checker MCP" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "python-whois>=0.9.3",
+    "dnspython>=2.6.1",
+]
+
+[project.scripts]
+domain-checker-mcp = "domain_checker_mcp:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,10 @@
+transformers==4.45.2
+torch==2.1.0
+torchvision
+accelerate>=0.25.0
+Pillow>=10.0.0
+sentencepiece
+protobuf
+mcp>=0.9.0
+einops
+scipy

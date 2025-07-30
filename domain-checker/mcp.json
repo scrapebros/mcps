@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "domain-checker": {
+      "command": "python",
+      "args": ["-m", "domain_checker_mcp"],
+      "env": {}
+    }
+  }
+}

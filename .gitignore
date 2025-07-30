@@ -1,0 +1,53 @@
+# Environment and sensitive files
+.env
+.ssh/
+*.log
+*.cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+joycaption_test_env/
+*_test_env/
+
+# Cache directories
+.domain_checker_cache/
+cache/
+temp/
+tmp/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files and outputs
+*.safetensors
+*.bin
+models/
+checkpoints/
+
+# Test outputs
+samples/*.json
+old/
+test_*.json
+*_results.json
+
+# Python packaging
+build/
+dist/
+*.egg-info/
