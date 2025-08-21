@@ -1,0 +1,244 @@
+{
+  "url": "https://ipchicken.com",
+  "timestamp": "2025-08-20T21:41:11.851774",
+  "success": true,
+  "data": {
+    "status_code": 200,
+    "title": "IP Chicken - Free Public IP Address Lookup",
+    "url": "https://ipchicken.com/",
+    "extracted_info": {
+      "ip": "24.152.187.2\n        Add to Favorites"
+    },
+    "page_info": {
+      "url": "https://ipchicken.com/",
+      "hostname": "ipchicken.com",
+      "protocol": "https:",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+      "language": "en-US",
+      "cookieEnabled": true,
+      "onlineStatus": true,
+      "screenResolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "documentHeight": 1080,
+      "documentWidth": 1920
+    },
+    "text_content": "\t\t\n\n\n\n\n24.152.187.2\nAdd to Favorites\n\n\tName Address: 24-152-187-2.static.fttp.usinternet.com\n\tRemote Port: 30182\n\tBrowser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\n\n\n\n\n\n\t\n\t\n\n\n\n\nLink To Us:\n\n\n\n(c) 2025 IPChicken - Privacy Policy",
+    "links": [
+      {
+        "text": "Add to Favorites",
+        "href": "javascript:makeLink()",
+        "target": ""
+      },
+      {
+        "text": "",
+        "href": "https://ipchicken.com/link.html",
+        "target": ""
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://ipchicken.com/privacy.html",
+        "target": ""
+      }
+    ],
+    "cookies": [
+      {
+        "name": "_ga",
+        "value": "GA1.2.198794548.1755744074",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "_gid",
+        "value": "GA1.2.647174524.1755744074",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "_gat",
+        "value": "1",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "_ga_WZX67Z8LRM",
+        "value": "GS2.2.s1755744075$o1$g0$t1755744075$j60$l0$h0",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "IDE",
+        "value": "AHWqTUlpZS1x2oJnpxN4O8cnrAAWOM6EnM9X348M0KwNZr6S1U7OKXAs_EPrmHCbgcQ",
+        "domain": ".doubleclick.net"
+      },
+      {
+        "name": "CMID",
+        "value": "aKaHS9HM4OMADCP-CfH2JwAA",
+        "domain": ".casalemedia.com"
+      },
+      {
+        "name": "CMPS",
+        "value": "5870",
+        "domain": ".casalemedia.com"
+      },
+      {
+        "name": "CMPRO",
+        "value": "5870",
+        "domain": ".casalemedia.com"
+      },
+      {
+        "name": "uid",
+        "value": "2815305556642343119",
+        "domain": ".turn.com"
+      },
+      {
+        "name": "ab",
+        "value": "0001%3Ai4p%2BWeHRV4zehbju183uqOIrZC9pcib1",
+        "domain": ".agkn.com"
+      },
+      {
+        "name": "u",
+        "value": "C|0EAAwOUPMMDlDzAAAAAAAAQAHAAAAAAIAC0X__x4AAAAAAGOFrgAAAAAZKQTAAAAAAA4MTygAAAAAJKynMgA",
+        "domain": ".agkn.com"
+      },
+      {
+        "name": "demdex",
+        "value": "62898173244599367284359230024313668160",
+        "domain": ".demdex.net"
+      },
+      {
+        "name": "comcast",
+        "value": "62898173244599367284359230024313668160",
+        "domain": ".comcast.demdex.net"
+      },
+      {
+        "name": "__gads",
+        "value": "ID=e76bb6d5b37b12aa:T=1755744074:RT=1755744074:S=ALNI_MaNPrRSQC4_VHgOwq1_Od2jbdjn4Q",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "__gpi",
+        "value": "UID=0000125f41cf6509:T=1755744074:RT=1755744074:S=ALNI_MaVIwicsNjfwOgsdfMcCase7hvnUQ",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "__eoi",
+        "value": "ID=db786847010098a9:T=1755744074:RT=1755744074:S=AA-AfjaclbskP56v8LqOIywn-SdT",
+        "domain": ".ipchicken.com"
+      },
+      {
+        "name": "ANON_ID",
+        "value": "annoeUoZdUQtR2HpburZbJUUwqXPTHr7naNlc7PIct",
+        "domain": ".tribalfusion.com"
+      },
+      {
+        "name": "tuuid",
+        "value": "a9018257-47df-443d-b236-cfc2d50a72a1",
+        "domain": ".360yield.com"
+      },
+      {
+        "name": "tuuid_lu",
+        "value": "1755744077",
+        "domain": ".360yield.com"
+      },
+      {
+        "name": "C",
+        "value": "1",
+        "domain": ".adform.net"
+      },
+      {
+        "name": "tuuid",
+        "value": "3239bc9d-47c8-4136-9bdb-4b02397d8552",
+        "domain": ".bidswitch.net"
+      },
+      {
+        "name": "c",
+        "value": "1755744077",
+        "domain": ".bidswitch.net"
+      },
+      {
+        "name": "tuuid_lu",
+        "value": "1755744077",
+        "domain": ".bidswitch.net"
+      },
+      {
+        "name": "suid",
+        "value": "5F0CE27F89474F6BB3572D4D93D428CD",
+        "domain": ".simpli.fi"
+      },
+      {
+        "name": "uid",
+        "value": "3341699827725401319",
+        "domain": ".adform.net"
+      },
+      {
+        "name": "idsp_c",
+        "value": "99eb00aa-aa32-4ced-aff1-90bad9e40b03",
+        "domain": ".inmobi.com"
+      },
+      {
+        "name": "TDID",
+        "value": "72d564c6-d27b-47ad-bd7e-b47218d5fd0e",
+        "domain": ".adsrvr.org"
+      },
+      {
+        "name": "DotomiTest",
+        "value": "5102370568511363479",
+        "domain": ".dotomi.com"
+      },
+      {
+        "name": "google_push",
+        "value": "AXcoOmSqavsEXbKnABTDc3BwoVja1ra6bVfKyuaSDn2nSRd6TSHww_go0If7OFF2C5ztPvVlZY5ZvTeOAB22jK7kyptokN14WJ_9QK8fiUQmyum5XEZ3Omdo_Ur79zJL3Ct3VmoeXz_c_KA6uZ9L3hfKmfgH",
+        "domain": ".bidswitch.net"
+      },
+      {
+        "name": "uuid2",
+        "value": "3731849355790186546",
+        "domain": ".adnxs.com"
+      },
+      {
+        "name": "bcookie",
+        "value": "\"v=2&72b9a4e0-2074-4aab-8dc9-4a4f8eb9c789\"",
+        "domain": ".linkedin.com"
+      },
+      {
+        "name": "lidc",
+        "value": "\"b=OGST07:s=O:r=O:a=O:p=O:g=3276:u=1:x=1:i=1755744077:t=1755830477:v=2:sig=AQE071bYiJnsAa9v1UyS0kHr-GB-tht0\"",
+        "domain": ".linkedin.com"
+      },
+      {
+        "name": "TDCPM",
+        "value": "CAESFQoGZ29vZ2xlEgsItMCLy8eZsD4QBRgFIAEoAjILCLCEqffdmbA-EAU4AQ..",
+        "domain": ".adsrvr.org"
+      },
+      {
+        "name": "rud",
+        "value": "H4sIAAAAAAAA_-MSNrS0NDS3MDc2Njc0s7A0NjMxMxbiM9Q1DHaM8IoodjEscnQFAEIEfnslAAAA",
+        "domain": ".rfihub.com"
+      },
+      {
+        "name": "ruds",
+        "value": "H4sIAAAAAAAA_-MSNrS0NDS3MDc2Njc0s7A0NjMxMxbiM9Q1DHaM8IoodjEscnQFAEIEfnslAAAA",
+        "domain": ".rfihub.com"
+      },
+      {
+        "name": "eud",
+        "value": "H4sIAAAAAAAA_3vFyGtobmpqbmJiYG5ubmQIABoK-u4QAAAA",
+        "domain": ".rfihub.com"
+      },
+      {
+        "name": "anj",
+        "value": "dTM7k!M41.D>6NRF']wIg2C$Qr_tN6!@wnfH8K6pQK`!5=E<*L5?%M(gQ=(6ly7#%g@A%.0XRgDmqWqc8nCN=]N=WI%nugO%v4VB%ntt1)]DbA",
+        "domain": ".adnxs.com"
+      },
+      {
+        "name": "FCNEC",
+        "value": "%5B%5B%22AKsRol86OQopVEszGJWa3VHEMC8emUaqXAT4F6nK_ZoInd8eQMPB3TzylQkP28z2QA2Nu5YlbCvssmtS7ndyojSrLWXPcZ5_5v00SQ-un6MmVdrxz-DZyG28xKDnitJhpCQqj24dNO8r9Zx_OiCvvHwoQ-9XCE72UQ%3D%3D%22%5D%5D",
+        "domain": ".ipchicken.com"
+      }
+    ]
+  },
+  "screenshot": "reports/screenshots/capture-20250820-214119.png",
+  "error": null
+}

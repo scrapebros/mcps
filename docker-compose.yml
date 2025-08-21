@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  mcp-playwright:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: mcp-playwright:latest
+    container_name: mcp-playwright-server
+    privileged: true  # Required for v4l2loopback
+    environment:
+      - DISPLAY=:99
+      - NODE_ENV=production
+      - HEADLESS=false
+    volumes:
+      # Mount reports directory for access to screenshots
+      - ./reports:/opt/mcp-playwright/reports
+      # Mount webcam assets
+      - ./webcam-assets:/opt/mcp-playwright/webcam-assets
+      # Optional: Mount for live code updates (development)
+      # - ./src:/opt/mcp-playwright/src
+      # - ./scripts:/opt/mcp-playwright/scripts
+    devices:
+      # Pass through video devices if they exist on host
+      - /dev/video20:/dev/video20
+      - /dev/video21:/dev/video21
+    cap_add:
+      - SYS_ADMIN  # For browser sandboxing
+      - SYS_MODULE  # For loading kernel modules
+    stdin_open: true
+    tty: true
+    networks:
+      - mcp-network
+
+networks:
+  mcp-network:
+    driver: bridge
