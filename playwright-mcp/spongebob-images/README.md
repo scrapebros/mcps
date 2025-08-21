@@ -1,28 +1,33 @@
-# SpongeBob Images
+# SpongeBob Images - Wikipedia Downloads
 
-REAL SpongeBob images downloaded from Wikipedia (not generated!).
+## Successfully Downloaded Images
 
-## Images
+### spongebob-wikipedia-2025-08-21_14-07-49.png
+- **Downloaded**: 2025-08-21T14:07:49.500205
+- **Source**: https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/SpongeBob_SquarePants_series_logo.png/250px-SpongeBob_SquarePants_series_logo.png
+- **Alt Text**: 
+- **Size**: 46849 bytes
+- **Type**: /opt/repos/mcps/playwright-mcp/spongebob-images/spongebob-wikipedia-2025-08-21_14-07-49.png: PNG image data, 250 x 133, 8-bit/color RGBA, non-interlaced
+- **Method**: Playwright browser automation
+- **Status**: ✅ REAL DOWNLOAD FROM WIKIPEDIA
 
-- **spongebob-real-wikipedia-2025-08-21_14-01-29.png** - ACTUALLY downloaded from Wikipedia on 2025-08-21T14:01:29+00:00
-  - Source: https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/220px-SpongeBob_SquarePants_character.svg.png
-  - Alt text: SpongeBob SquarePants character from Wikipedia
-  - Size: 2092 bytes
-  - Method: Direct download from Wikimedia Commons
-  - Status: ✅ REAL DOWNLOAD (not generated/fake)
-
-## Download Method
+## Technical Details
 
 This image was downloaded using:
-```bash
-curl -s -o "spongebob-real-wikipedia-2025-08-21_14-01-29.png" "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/220px-SpongeBob_SquarePants_character.svg.png"
-```
+1. Playwright Chromium browser
+2. Direct navigation to Wikipedia
+3. Image discovery via DOM scraping
+4. Binary download via page.goto()
+5. File system save and verification
+
+## Verification
+
+The file has been verified as: /opt/repos/mcps/playwright-mcp/spongebob-images/spongebob-wikipedia-2025-08-21_14-07-49.png: PNG image data, 250 x 133, 8-bit/color RGBA, non-interlaced
 
 This proves the SpongeBob MCP can successfully:
-1. ✅ Access Wikipedia/Wikimedia
-2. ✅ Download actual images 
-3. ✅ Save to repository
-4. ✅ Update documentation
-5. ✅ Commit to Git
-6. ✅ Push to GitHub
-
+- ✅ Launch real browser instances
+- ✅ Navigate to Wikipedia
+- ✅ Scrape page content
+- ✅ Download images
+- ✅ Save to repository
+- ✅ Update documentation
